@@ -4,7 +4,7 @@ def add(a: float, b: float) -> float:
     Args: 
        a (float): the first number to be added
        b (float): the second number to be added
-    
+
     Returns: 
         float: The sum of a and b
     '''
