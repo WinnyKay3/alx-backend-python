@@ -2,12 +2,12 @@
 '''concancates a string'''
 
 
-def concat(str1: string, str2: string) -> string:
+def concat(str1: str, str2: str) -> str:
      ''' Concatenate two strings.
 
     Args:
-        str1 (str): The first string.
-        str2 (str): The second string.
+      str1 (str): The first string.
+      str2 (str): The second string.
 
     Returns:
         str: The concatenated string.
